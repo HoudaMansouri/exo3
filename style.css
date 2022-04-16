@@ -1,0 +1,13 @@
+body {
+    background-color: hsl(225, 100%, 94%);
+}
+.fond {
+    margin: -100px;
+}
+
+.heroes {
+    display: block;
+    margin : auto;
+    border-radius : 15px;
+    margin-top: -300px;
+}
